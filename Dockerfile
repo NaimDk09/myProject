@@ -8,4 +8,4 @@ WORKDIR /app
 COPY . /app/
 
 # Set the default command to run the HTTP server
-CMD ["python", "-m", "http.server", "8001"]
+CMD ["python", "-m", "http.server", "8002"]
