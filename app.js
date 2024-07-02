@@ -1,1 +1,1 @@
-alert("Hello Worldo");
+alert("Hello Worldo, this event triggered a new jenkins build");
